@@ -10,7 +10,7 @@ cin>>q;
 for(int i=0;i<q;i++)
 {
     for(int w=0;w<i+1;w++){
-        cout<<w+1;
+        cout<<w+2;
     }    
     cout<<endl;
 }
