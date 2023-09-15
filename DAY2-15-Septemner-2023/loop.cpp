@@ -1,20 +1,12 @@
 #include<iostream>
 using namespace std;
 
-int main()
-{
-    int score;
-    cout<<"Enter the Score"<<endl;
-    cin>>score;
+int main(){
 
-    if(score>150){
+for(int i=0;i<4;i++){
+cout<<i<<endl;
 
-        cout<<"India Wins";
-
-    }
-
-    else{
-    cout<<"India Lost";
 }
 
 }
+
