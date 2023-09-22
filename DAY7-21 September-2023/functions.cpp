@@ -23,32 +23,32 @@ int getsum(int a, int b){
 int main()
 {
 
-//     int n;
-//     cout<<"Enter the value of n";
-//     cin>>n;
+    int n;
+    cout<<"Enter the value of n";
+    cin>>n;
 
-//     for (int i=0;i<n;i++){
-//         cout<<"Sparsh";
-//             cout<<endl;
+    for (int i=0;i<n;i++){
+        cout<<"Sparsh";
+            cout<<endl;
 
-//     }
+    }
 
-//      cout<<"Enter the value of n";
-//     cin>>n;
+     cout<<"Enter the value of n";
+    cin>>n;
 
-//     for (int i=0;i<n;i++){
-//         cout<<"Sparsh";
-//             cout<<endl;
+    for (int i=0;i<n;i++){
+        cout<<"Sparsh";
+            cout<<endl;
 
-// }
+}
 
-//  cout<<"Enter the value of n";
-//     cin>>n;
+ cout<<"Enter the value of n";
+    cin>>n;
 
-//     for (int i=0;i<n;i++){
-//         cout<<"Sparsh";
-//             cout<<endl;
-//     }
+    for (int i=0;i<n;i++){
+        cout<<"Sparsh";
+            cout<<endl;
+    }
 
 
 Name();
