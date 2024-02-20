@@ -185,26 +185,26 @@ int main(){
 //     cin>>arr[i];
 // }
 
-// int sum;
-// cout<<"Enter Valur of Sum: "<<endl;
-// cin>>sum;
+int sum;
+cout<<"Enter Valur of Sum: "<<endl;
+cin>>sum;
 
-// vector<int> ans;
+vector<int> ans;
 
-// for(int i=0;i<arr.size();i++){
-//     {
-//         for (int j=i+1;j<arr.size();j++){
-//             for (int k=j+1;k<arr.size();k++)
+for(int i=0;i<arr.size();i++){
+    {
+        for (int j=i+1;j<arr.size();j++){
+            for (int k=j+1;k<arr.size();k++)
 
-//                 if (arr[i]+arr[j]+arr[k]==sum){
-//                     cout<<"Pair ="<<arr[i]<<","<<arr[j]<<","<<arr[k]<<endl;
-//                 }
+                if (arr[i]+arr[j]+arr[k]==0){
+                    cout<<"Pair ="<<arr[i]<<","<<arr[j]<<","<<arr[k]<<endl;
+                }
 
 
 
-//         }
-//     }
-// }
+        }
+    }
+}
 
 
 
