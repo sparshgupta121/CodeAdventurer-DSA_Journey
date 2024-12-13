@@ -1,9 +1,12 @@
 {
-    "files.associations": {
-        "ostream": "cpp",
-        "iostream": "cpp"
-    },
-    "C_Cpp.errorSquiggles": "disabled"
+	"files.associations": {
+		"ostream": "cpp",
+		"iostream": "cpp",
+		"typeindex": "cpp",
+		"typeinfo": "cpp",
+		"regex": "cpp"
+	},
+	"C_Cpp.errorSquiggles": "disabled"
 }
 
-// DSA Series 
+// DSA Series
