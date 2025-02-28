@@ -32,7 +32,7 @@ cout<<ch<<endl;
 //if-else
 
 int age;
-cout<<"Enter AGe:"<<endl;
+cout<<"Enter Age:"<<endl;
 
 cin>>age;
 
